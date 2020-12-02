@@ -1,0 +1,7 @@
+
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8¸ô¿Ñ.
+msquid:S1192,"ODefine a constant instead of duplicating this literal "line.separator" 6 times.(®ğ…¤8¸ô¿Ñ.
+Jsquid:S1905³"&Remove this unnecessary cast to "int".(‰Ê˜Õşÿÿÿÿ8¸ô¿Ñ.
+1squid:S1700"Rename field "text"(ùº¦¥8¸ô¿Ñ.
+Lsquid:S1481C")Remove this unused "line" local variable.(ÂšÑ±şÿÿÿÿ8¸ô¿Ñ.
+Esquid:S1905´"&Remove this unnecessary cast to "int".(”ñù²8¸ô¿Ñ.

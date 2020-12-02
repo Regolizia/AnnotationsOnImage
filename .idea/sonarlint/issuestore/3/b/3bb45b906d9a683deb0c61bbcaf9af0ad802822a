@@ -1,0 +1,6 @@
+
+esquid:UselessImportCheck":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8ÓåëèÑ.
+squid:S1319P"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(’‡¦†8À‹Ÿ¿Ï.
+squid:S1319L"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ËàçÊ8°ß®ËÍ.
+Nsquid:S1068"0Remove this unused "shiftPressed" private field.(¾¹èì8´‰µèÑ.
+bsquid:UselessImportCheck"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8ÓåëèÑ.

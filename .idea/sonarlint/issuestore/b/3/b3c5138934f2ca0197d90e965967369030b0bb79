@@ -1,0 +1,4 @@
+
+"squid:ClassVariableVisibilityCheck	"[Make changeListeners a static final constant or non-public and provide accessors if needed.(¥ÙÍÎ8…Î½ËÍ.
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(Åñ­õşÿÿÿÿ8¡Ë¾ËÍ.
+˜squid:S1319	"zThe type of the "changeListeners" object should be an interface such as "List" rather than the implementation "ArrayList".(¥ÙÍÎ8…Î½ËÍ.

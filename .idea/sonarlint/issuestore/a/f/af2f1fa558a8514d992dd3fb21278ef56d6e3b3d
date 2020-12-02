@@ -1,0 +1,12 @@
+
+®%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(¸¯í¥şÿÿÿÿ8ÍºâåÑ.
+Esquid:S1872{"'Use an "instanceof" comparison instead.(®éÈË8ÍºâåÑ.
+Esquid:S1948"'Make "model" transient or serializable.(·ÛÜ 8ÍºâåÑ.
+nsquid:S00100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´é¶Ï8ÍºâåÑ.
+Fsquid:S1872”"'Use an "instanceof" comparison instead.(€Õ­8ÍºâåÑ.
+Dsquid:S1948"&Make "view" transient or serializable.(ÁüĞ8÷¥¸Ñ.
+Msquid:S1066|"/Merge this if statement with the enclosing one.(û±»Ê8ÍºâåÑ.
+squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ËàçÊ8ÍºâåÑ.
+Ksquid:S1872"'Use an "instanceof" comparison instead.(¤˜İüÿÿÿÿ8ÍºâåÑ.
+squid:S1319&"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(’‡¦†8ÍºâåÑ.
+ssquid:S00100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿî˜üúÿÿÿÿ8ÍºâåÑ.

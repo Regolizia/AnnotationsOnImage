@@ -1,0 +1,12 @@
+
+osquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(œ½ö§ùÿÿÿÿ8ÃËÊ¢â.
+Ksquid:S1602Ÿ",Remove useless curly braces around statement(ºö“þ8é£¶¢â.
+Hsquid:S1068"*Remove this unused "yellow" private field.(ÄþÙµ8œË¢â.
+lsquid:S2095É"HUse try-with-resources or close this "FileReader" in a "finally" clause.(šðøˆýÿÿÿÿ8é£¶¢â.
+ksquid:S2259Ù"GA "NullPointerException" could be thrown; "imageList" is nullable here.(³ÏÁêüÿÿÿÿ8é£¶¢â.
+Wsquid:S1854Ï"9Remove this useless assignment to local variable "image".(¹‰ ~8é£¶¢â.
+zsquid:S1149…"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ùžõúøÿÿÿÿ8é£¶¢â.
+nsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(áöÎšøÿÿÿÿ8àÏÔ¢â.
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(•ù¢”8ŠÙ€¿Ñ.
+Psquid:S1602›",Remove useless curly braces around statement(Å×üôøÿÿÿÿ8é£¶¢â.
+Hsquid:S1068"*Remove this unused "purple" private field.(Žšùó8µ¤ä¢â.
